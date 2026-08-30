@@ -10,10 +10,9 @@ JFClick 是一款轻量、免费、含自营推广的 Windows 自动操作工具
 
 ## 下载
 
-- **GitHub Releases**（推荐）：https://github.com/summerZstar/JFClick/releases/latest
-- **Gitee 镜像**：https://gitee.com/8snow/JFClick/releases
+- **GitHub 下载**（海外节点，推荐）：https://github.com/summerZstar/JFClick/releases/latest/download/JFClick.exe
+- **Gitee 镜像**（国内加速）：https://gitee.com/8snow/JFClick/releases/download/v1.1.0/JFClick.exe
 - **使用文档**：https://jptool.cn/modules/jfclick/index.html
-- **官网**：https://jptool.cn
 
 ## 功能特性
 
@@ -66,7 +65,7 @@ JFClick 是一款轻量、免费、含自营推广的 Windows 自动操作工具
 - 程序为单文件 .exe，下载后直接双击运行（如被杀软误报，请加入白名单，本工具不含任何恶意代码）。
 - 运行时会向官网拉取推广配置（仅文案，不上传任何个人数据）；其余配置均本地保存，隐私无忧。
 - 本软件为闭源免费软件，允许自由分发原始安装包；请勿反编译、修改后再分发。
-- 更多教程与更新请关注官网：https://jptool.cn
+- 更多教程与更新请关注：https://jptool.cn/modules/jfclick/index.html
 - 本工具仅供日常办公、重复操作等正当用途，请勿用于违反第三方服务条款或法律法规的场景，使用者需自行承担相关责任。
 
 疾风自动点击 JFClick · 让重复操作交给电脑
