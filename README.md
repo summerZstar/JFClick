@@ -6,12 +6,14 @@ Windows 免费自动点击 / 动作录制工具 · 单文件绿色版，解压�
 
 适用系统：Windows（Win10 / Win11 推荐）
 
-JFClick 是一款轻量、免费、含自营推广的 Windows 自动操作工具。它能帮你自动连点、录制鼠标键盘动作并循环回放，支持固定坐标跟随光标、频率/间隔两种节奏模式、多重停止条件，并带屏幕绿框提示与全局快捷键，适合挂机、重复操作、游戏辅助、办公自动化等场景。
+JFClick 是一款轻量、免费、无广告、不联网的 Windows 自动操作工具。它能帮你自动连点、录制鼠标键盘动作并循环回放，支持固定坐标跟随光标、频率/间隔两种节奏模式、多重停止条件，并带屏幕绿框提示与全局快捷键，适合挂机、重复操作、游戏辅助、办公自动化等场景。
 
 ## 下载
 
-- **GitHub 下载**（海外节点，推荐）：https://github.com/summerZstar/JFClick/releases/latest/download/JFClick.exe
-- **Gitee 镜像**（国内加速）：https://gitee.com/8snow/JFClick/releases/download/v1.1.0/JFClick.exe
+> 发行物为 `JFClick.zip`（便携版，解压后双击 `JFClick.exe` 运行）。用 7-Zip / Bandizip 等第三方解压软件解压可避免 Windows SmartScreen「未知发布者」弹窗（直接下载的裸 exe 才会触发）。
+
+- **GitHub 下载**（海外节点，推荐）：https://github.com/summerZstar/JFClick/releases/latest/download/JFClick.zip
+- **Gitee 镜像**（国内加速）：https://gitee.com/8snow/JFClick/releases/download/v1.2.0/JFClick.zip
 - **使用文档**：https://jptool.cn/modules/jfclick/index.html
 
 ## 功能特性
@@ -62,8 +64,8 @@ JFClick 是一款轻量、免费、含自营推广的 Windows 自动操作工具
 
 ## 说明
 
-- 程序为单文件 .exe，下载后直接双击运行（如被杀软误报，请加入白名单，本工具不含任何恶意代码）。
-- 运行时会向官网拉取推广配置（仅文案，不上传任何个人数据）；其余配置均本地保存，隐私无忧。
+- 程序为单文件 `JFClick.exe`，下载 `JFClick.zip` 后解压，双击 `JFClick.exe` 即可运行（如被杀软误报，请加入白名单，本工具不含任何恶意代码）。
+- 不联网、不采集：无统计上报、无崩溃上报、无广告 SDK、不检查更新；除你主动点击「使用文档」外，程序不产生任何对外网络请求。所有配置本地保存，隐私无忧。
 - 本软件为闭源免费软件，允许自由分发原始安装包；请勿反编译、修改后再分发。
 - 更多教程与更新请关注：https://jptool.cn/modules/jfclick/index.html
 - 本工具仅供日常办公、重复操作等正当用途，请勿用于违反第三方服务条款或法律法规的场景，使用者需自行承担相关责任。
